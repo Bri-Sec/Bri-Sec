@@ -70,8 +70,9 @@ During a module on cybercrime in bachelors in forensic science I developed a pas
 
 
 ## Projects
-- ELK Stack
-- SOC Homelab
-- Phishing Detection Extension
-- TryHackMe
-- Soar & EDR
+- ELK Stack  
+- SOC Homelab  
+- <a href="https://github.com/Bri-Sec/Phishing-Detection-Extension/tree/main">Phishing Detection Extension</a>  
+- TryHackMe  
+- 🔧 Soar & EDR *(in progress)*
+
