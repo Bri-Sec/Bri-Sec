@@ -11,12 +11,12 @@ During a module on cybercrime in bachelors in forensic science I developed a pas
 
 | Skill                                          | Associated Project                      |
 |-----------------------------------------------|------------------------------------------|
-| SIEM Implementation and Log Analysis          | SOC Homelab, ELK Stack                   |
-| Log Forwarding and Alerting Configuration     | ELK Stack                                |
-| Dashboard and Rule Creation                   | ELK Stack                                |
-| Machine Learning for Threat Classification    | Phishing Detection Extension             |
-| Web Scraping                                  | Phishing Detection Extension             |
-| Threat Hunting and CTF Exercises              | TryHackMe                                |
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/Bri-Sec/SOC-Homelab/tree/main">SOC Homelab</a>, <a href="https://github.com/Bri-Sec/ELK-Stack/tree/main">ELK Stack</a> |
+| Log Forwarding and Alerting Configuration     | <a href="https://github.com/Bri-Sec/ELK-Stack/tree/main">ELK Stack</a> |
+| Dashboard and Rule Creation                   | <a href="https://github.com/Bri-Sec/ELK-Stack/tree/main">ELK Stack</a> |
+| Machine Learning for Threat Classification    | <a href="https://github.com/Bri-Sec/Phishing-Detection-Extension/tree/main">Phishing Detection Extension</a> |
+| Web Scraping                                  | <a href="https://github.com/Bri-Sec/Phishing-Detection-Extension/tree/main">Phishing Detection Extension</a> |
+| Threat Hunting and CTF Exercises              | <a href="https://github.com/Bri-Sec/TryHackMe/tree/main">TryHackMe</a> |
 
 
 ## Tools
@@ -70,9 +70,9 @@ During a module on cybercrime in bachelors in forensic science I developed a pas
 
 
 ## Projects
-- ELK Stack  
-- SOC Homelab  
+- <a href="https://github.com/Bri-Sec/ELK-Stack/tree/main">ELK Stack</a>
+- <a href="https://github.com/Bri-Sec/SOC-Homelab/tree/main">SOC Homelab</a>
 - <a href="https://github.com/Bri-Sec/Phishing-Detection-Extension/tree/main">Phishing Detection Extension</a>  
-- TryHackMe  
-- 🔧 Soar & EDR *(in progress)*
+- <a href="https://github.com/Bri-Sec/TryHackMe/tree/main">TryHackMe</a>
+- <a href="https://github.com/Bri-Sec/SOAR-/tree/main">SOAR & EDR</a> 🔧 *(in progress)* 🔧
 
