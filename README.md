@@ -2,7 +2,7 @@
 
 <a href="https://www.linkedin.com/in/brian-jakobs-1932b51b6/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a recent cyber security graduate with a profound curiosity in technology, security and solving complex problems.
+I am a recent cyber security graduate with a profound curiosity in technology and security, and I'm always eager to learn more!
 
 ## Objective
 
